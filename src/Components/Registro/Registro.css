@@ -1,0 +1,18 @@
+.tarjetaregistro{
+    width: 50%;
+    height: 450px;
+    border-width: 1px 5px;
+    border-color: #0dcaf0;
+}
+
+.inputarjetalog{
+    width: 75%;
+    justify-content: center;
+    margin-top: 1%;
+}
+
+.labeluser{
+    width: 75%;
+    text-align: start;
+    margin-top: 3%;
+}
